@@ -27,6 +27,6 @@ function sayHiToGrandma(string) {
   }
   else {
     return "..."
-  }*/
+  }
 
 }
